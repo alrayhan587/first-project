@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+	color: #00000078;
+}
+
+img{
+	max-width: 100%;
+	display: block;
+}
+
+header{/*! margin: ; */padding: 40px 0;padding-bottom: 92px;}
+.container{width: 1150px;margin: 0 auto;}
+.logo{width: 12%;float: left;}
+.logo img{}
+
+nav{width: 80%;display: inline;/*! float: left; */padding: 0;margin: 0;}
+nav ul{margin: 4px;padding: 1px;text-align: right;}
+nav ul li{list-style: none;display: inline-block;/*! margin-left: 15px; *//*! float: left; *//*! padding-right: -14px; *//*! padding-left: 0px; */text-transform: capitalize;}
+nav ul li a{text-decoration: none;color: #8e523a;font-size: 16px;/*! text-decoration-thickness: 10px; *//*! text-shadow: beige; */padding-left: 100px;}
+nav ul li a:hover{}
+
+.banner-section{/*! padding: 10px 10; */margin: 10 10;}
+.banner-section img{width: 100%;}
+
+.article-section{padding: 119px 0px;/*! padding-bottom: 30px; */}
+.container-box{width: 1050px;margin: 0 auto;}
+.container-box article{}
+.container-box article span{color: #8e523a;text-transform: capitalize;}
+.container-box article h1{font-size: 31px;}
+.container-box article p{}
+.container-box article a{text-decoration: none;}
+.container-box article a span{}
+
+
+.gallery-box{overflow: hidden;}
+.gallery{width: 50%;float: left;padding: 30px;box-sizing: border-box;}
+.gallery img{width: 100%;padding: 30px 0;}
+.gallery span{color: #8e523a;text-transform: capitalize;}
+.gallery h1{}
+.gallery p{}
+
+footer{background: #f1f1f1;/*! width: 1000px; *//*! padding: 0; */box-sizing: content-box;overflow: hidden;padding: 35px;display: block;}
+.footer-menu{width: 50%;text-align: ;float: left;/*! display: inline-block; */}
+.footer-menu ul{t: ;/*! display: inline-block; */margin: 0;padding: 0;}
+.footer-menu ul li{list-style: none;display: inline-block;padding: 0px 18px;}
+.footer-menu ul li a{text-decoration: none;font-size: 14px;text-transform: capitalize;color: #171717;}
+.footer-menu ul li a:hover{}
+
+.social-menu{width: 50%;/*! box-sizing: border-box; */display: inline-block;}
+.social-menu ul{margin: 0;padding: 2px;text-align: right;}
+.social-menu ul li{display: inline-block;list-style: none;padding: 0px 15px;}
+.social-menu ul li span{/*! padding-bottom: 47px; */padding-bottom: 0px;display: block;/*! padding-bottom: 0px; */}
+.social-menu ul li a{}
+.social-menu ul li a:hover{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
